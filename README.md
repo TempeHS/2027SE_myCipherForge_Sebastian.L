@@ -10,8 +10,8 @@ This project implements a multi-layered encryption system that I designed from s
 
 | Phase | Name | Status |
 |-------|------|--------|
-| 1 | Substitution | 🔲 Not started |
-| 2 | Transposition | 🔲 Not started |
+| 1 | Substitution | Completed |
+| 2 | Transposition | Completed |
 | 3 | Key-Dependent | 🔲 Not started |
 | 4 | Noise Injection | 🔲 Not started |
 | 5 | Wild Card | 🔲 Not started |
